@@ -5,7 +5,7 @@
 //TODO check type of value in hw
 //TODO better implement compare and make a coverter
 
-#include "L2_Lujerdean_Ana_Problem0_length.h"
+#include "length.h"
 #include <iomanip>
 #include <cmath>
 #include <exception>
